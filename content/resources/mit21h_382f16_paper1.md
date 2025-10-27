@@ -4,8 +4,6 @@ description: This file contains information regarding paper 1.
 file: /courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/c5d95c58bda5781294262158c0b56ebb_MIT21H_382F16_Paper1.pdf
 file_size: 264393
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

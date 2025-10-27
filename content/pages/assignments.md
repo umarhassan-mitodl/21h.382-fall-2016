@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section contains information on the course assignments.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -15,7 +13,7 @@ Students are required to complete a series of three writing assignments spaced t
 Paper 1
 -------
 
-A five page paper that compares the Mississippi and South Sea bubbles. Your paper should make use of the readings for sessions 2-4 of the seminar, as well as the document that you will select in conjunction with our Session 4 field trip to the [South Sea Bubble Resources Collection](http://www.library.hbs.edu/hc/ssb/index.html) in the Kress Collection at the Baker Library, Harvard Business School.
+A five page paper that compares the Mississippi and South Sea bubbles. Your paper should make use of the readings for sessions 2-4 of the seminar, as well as the document that you will select in conjunction with our Session 4 field trip to the {{% resource_link "d65a879e-fae5-46d9-b47a-6cba5ca96239" "South Sea Bubble Resources Collection" %}} in the Kress Collection at the Baker Library, Harvard Business School.
 
 The paper is due during Session 5, and is worth 15% of the final grade.
 

@@ -5,8 +5,6 @@ description: This resource contains the information regarding Capitalism in the 
 file: /courses/21h-382-capitalism-in-the-age-of-revolution-fall-2016/9ce15d1694881b46166c0f52afe59b6c_MIT21H_382F16_Corporation.pdf
 file_size: 338137
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

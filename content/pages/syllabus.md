@@ -2,8 +2,6 @@
 content_type: page
 description: This section features the course meeting times, course description, and
   class format and evaluation info.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -30,7 +28,7 @@ Course Materials
 
 There is one required text for this course.
 
-Beckert, Sven, and Seth Rockman, eds. _Slavery's Capitalism: A New History of American Economic Development_. University of Pennsylvania Press, 2016. ISBN: 9780812248418. \[Preview with [Google Books](http://books.google.com/books?id=O3-7DAAAQBAJ&pg=PAfrontcover)\]
+Beckert, Sven, and Seth Rockman, eds. _Slavery's Capitalism: A New History of American Economic Development_. University of Pennsylvania Press, 2016. ISBN: 9780812248418. \[Preview with {{% resource_link "30bd9bb4-dbf1-484f-9fc1-80a050593a46" "Google Books" %}}\]
 
 Although no background knowledge is assumed or required, it will be useful to have some familiarity with the events and issues of eighteenth-century North Atlantic history. For this purpose I have indicated, at various points in the semester, some selections from the following textbook:
 
@@ -102,4 +100,4 @@ For detail on the activities mentioned in the above table, see the {{% resource_
 Writing Help
 ------------
 
-The [Writing and Communication Center at MIT](http://cmsw.mit.edu/writing-and-communication-center/) (WCC) offers MIT students free one-on-one professional advice from communication experts (MIT lecturers who have advanced degrees and who are all are published writers). The WCC helps you strategize about all types of academic writing as well as about all aspects of oral presentations. The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice.
+The {{% resource_link "dd347f67-c691-482c-a983-410abf3f7310" "Writing and Communication Center at MIT" %}} (WCC) offers MIT students free one-on-one professional advice from communication experts (MIT lecturers who have advanced degrees and who are all are published writers). The WCC helps you strategize about all types of academic writing as well as about all aspects of oral presentations. The WCC also helps with all English as Second Language issues, from writing and grammar to pronunciation and conversation practice.
