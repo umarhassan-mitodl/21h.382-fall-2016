@@ -34,7 +34,7 @@ The Mississippi Bubble
 
 *Screening*
 
-cwhite2000. "[The Ascent of Money 2008 Episode 3 Blowing Bubbles](https://www.youtube.com/watch?v=0jbbO8tXeq8)." August 2, 2014. YouTube.
+cwhite2000. "{{% resource_link "e9695b53-955f-4a5d-a68f-0092bfc7f29c" "The Ascent of Money 2008 Episode 3 Blowing Bubbles" %}}." August 2, 2014. YouTube.
 
 {{< tdclose >}}{{< tdopen >}}
  
@@ -44,7 +44,7 @@ cwhite2000. "[The Ascent of Money 2008 Episode 3 Blowing Bubbles](https://www.yo
 
 The South Sea Bubble
 
-*Research visit field trip to the* [*South Sea Bubble Resources Collection*](http://www.library.hbs.edu/hc/ssb/index.html) *in the Kress Collection at the Baker Library, Harvard Business School*
+*Research visit field trip to the* {{% resource_link "d65a879e-fae5-46d9-b47a-6cba5ca96239" "*South Sea Bubble Resources Collection*" %}} *in the Kress Collection at the Baker Library, Harvard Business School*
 
 {{< tdclose >}}{{< tdopen >}}
  
